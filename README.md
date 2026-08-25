@@ -96,4 +96,4 @@ AI-Interviewer/
 
 GitHub: [Add your GitHub profile link]
 
-LinkedIn: [Add your LinkedIn profile link]
+LinkedIn: www.linkedin.com/in/ayush-singh-358462335
