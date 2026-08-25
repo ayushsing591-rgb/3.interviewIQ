@@ -74,7 +74,7 @@ AI-Interviewer/
 
 ## 5. Live Demo
 
-🔗 **Live Demo:** https://three-interviewiq-xv5l.onrender.com
+🔗 **Live Demo:** 
 
 ## 6. What I Learned
 
